@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "finder": "Business Finder",
+    "features": "Features",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "contact": "Contact",
+    "affiliates": "Affiliates",
+    "startFree": "Start Free",
+    "login": "Log in",
+    "crm": "CRM"
+  },
+  "home": {
+    "hero": "Access any business's emails to scale your sales.",
+    "heroSub": "Find leads by location, analyze reviews with AI, send personalized emails, and manage everything on a mapped CRM.",
+    "cta": "Start Free",
+    "openFinder": "Open AM2 Finder"
+  },
+  "footer": {
+    "tagline": "B2B lead generation from real businesses · Mapped CRM & AI sales assistant",
+    "product": "Product",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  }
+}

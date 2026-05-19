@@ -1,0 +1,4014 @@
+[
+  {
+    "id": "us-ny-001",
+    "name": "Brooklyn Bistro",
+    "category": "Restaurant",
+    "address": "123 Atlantic Ave",
+    "city": "Brooklyn",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.6892,
+    "lng": -73.9857,
+    "phone": "+1 718-555-0101",
+    "website": "https://example.com/brooklyn-bistro",
+    "rating": 4.2,
+    "reviewCount": 186,
+    "hours": "Mon-Sun 11:00-23:00",
+    "email": "hello@brooklynbistro.example",
+    "mobile": "+1 718-555-0102",
+    "reviews": [
+      {
+        "author": "Alex",
+        "rating": 5,
+        "text": "Great pasta and friendly staff.",
+        "date": "2026-03-01"
+      },
+      {
+        "author": "Sam",
+        "rating": 2,
+        "text": "Long wait times on weekends.",
+        "date": "2026-02-14"
+      }
+    ]
+  },
+  {
+    "id": "us-ny-002",
+    "name": "Manhattan Dental Care",
+    "category": "Dental clinic",
+    "address": "450 5th Ave",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.7549,
+    "lng": -73.984,
+    "phone": "+1 212-555-0202",
+    "website": "https://example.com/manhattan-dental",
+    "rating": 4.6,
+    "reviewCount": 92,
+    "email": "contact@manhattandental.example",
+    "reviews": [
+      {
+        "author": "Jordan",
+        "rating": 5,
+        "text": "Professional team and clean office.",
+        "date": "2026-04-02"
+      }
+    ]
+  },
+  {
+    "id": "us-ny-003",
+    "name": "Queens Fitness Hub",
+    "category": "Gym",
+    "address": "88 Northern Blvd",
+    "city": "Queens",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.7505,
+    "lng": -73.8855,
+    "phone": "+1 718-555-0303",
+    "rating": 3.9,
+    "reviewCount": 210,
+    "reviews": [
+      {
+        "author": "Taylor",
+        "rating": 4,
+        "text": "Good equipment but crowded evenings.",
+        "date": "2026-01-20"
+      }
+    ]
+  },
+  {
+    "id": "us-ca-001",
+    "name": "Sunset Tacos LA",
+    "category": "Restaurant",
+    "address": "2100 Sunset Blvd",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.0773,
+    "lng": -118.2607,
+    "phone": "+1 323-555-0404",
+    "rating": 4.4,
+    "reviewCount": 340,
+    "email": "orders@sunsettacos.example",
+    "reviews": [
+      {
+        "author": "Chris",
+        "rating": 5,
+        "text": "Best tacos in the neighborhood.",
+        "date": "2026-03-18"
+      }
+    ]
+  },
+  {
+    "id": "us-ca-002",
+    "name": "Silicon Valley Legal Group",
+    "category": "Law firm",
+    "address": "1 Market St",
+    "city": "San Francisco",
+    "region": "California",
+    "country": "US",
+    "lat": 37.7936,
+    "lng": -122.395,
+    "phone": "+1 415-555-0505",
+    "website": "https://example.com/sv-legal",
+    "rating": 4.8,
+    "reviewCount": 45,
+    "reviews": [
+      {
+        "author": "Morgan",
+        "rating": 5,
+        "text": "Responsive and knowledgeable attorneys.",
+        "date": "2026-02-28"
+      }
+    ]
+  },
+  {
+    "id": "us-tx-001",
+    "name": "Austin BBQ House",
+    "category": "Restaurant",
+    "address": "900 Congress Ave",
+    "city": "Austin",
+    "region": "Texas",
+    "country": "US",
+    "lat": 30.2711,
+    "lng": -97.7437,
+    "phone": "+1 512-555-0606",
+    "rating": 4.7,
+    "reviewCount": 512,
+    "reviews": [
+      {
+        "author": "Riley",
+        "rating": 5,
+        "text": "Smoky brisket worth the line.",
+        "date": "2026-04-10"
+      },
+      {
+        "author": "Casey",
+        "rating": 3,
+        "text": "Sides could be better.",
+        "date": "2026-03-05"
+      }
+    ]
+  },
+  {
+    "id": "es-mad-001",
+    "name": "Café Sol Madrid",
+    "category": "Cafe",
+    "address": "Calle Mayor 12",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "phone": "+34 91 555 0707",
+    "rating": 4.3,
+    "reviewCount": 128,
+    "email": "info@cafesol.example",
+    "reviews": [
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Excelente café y ambiente.",
+        "date": "2026-03-22"
+      }
+    ]
+  },
+  {
+    "id": "es-bcn-001",
+    "name": "Barcelona Tech Hub",
+    "category": "Coworking",
+    "address": "Passeig de Gràcia 50",
+    "city": "Barcelona",
+    "region": "Catalonia",
+    "country": "ES",
+    "lat": 41.3927,
+    "lng": 2.165,
+    "phone": "+34 93 555 0808",
+    "website": "https://example.com/bcn-tech",
+    "rating": 4.5,
+    "reviewCount": 67,
+    "reviews": [
+      {
+        "author": "Marc",
+        "rating": 5,
+        "text": "Great space for startups.",
+        "date": "2026-02-11"
+      }
+    ]
+  },
+  {
+    "id": "fr-par-001",
+    "name": "Boulangerie du Marais",
+    "category": "Bakery",
+    "address": "12 Rue des Rosiers",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.8575,
+    "lng": 2.359,
+    "phone": "+33 1 55 55 0909",
+    "rating": 4.6,
+    "reviewCount": 203,
+    "reviews": [
+      {
+        "author": "Sophie",
+        "rating": 5,
+        "text": "Croissants incroyables.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-ber-001",
+    "name": "Berlin Startup Office",
+    "category": "Office",
+    "address": "Alexanderplatz 1",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.5219,
+    "lng": 13.4132,
+    "phone": "+49 30 555 1010",
+    "rating": 4.1,
+    "reviewCount": 34,
+    "reviews": [
+      {
+        "author": "Hans",
+        "rating": 4,
+        "text": "Modern facilities.",
+        "date": "2026-01-30"
+      }
+    ]
+  },
+  {
+    "id": "gb-lon-001",
+    "name": "London Riverside Hotel",
+    "category": "Hotel",
+    "address": "10 Thames St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "phone": "+44 20 5555 1111",
+    "website": "https://example.com/riverside-hotel",
+    "rating": 4,
+    "reviewCount": 890,
+    "email": "bookings@riverside.example",
+    "reviews": [
+      {
+        "author": "Emma",
+        "rating": 4,
+        "text": "Lovely views, rooms a bit small.",
+        "date": "2026-03-15"
+      }
+    ]
+  },
+  {
+    "id": "it-rom-001",
+    "name": "Trattoria Roma Centro",
+    "category": "Restaurant",
+    "address": "Via del Corso 100",
+    "city": "Rome",
+    "region": "Lazio",
+    "country": "IT",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "phone": "+39 06 555 1212",
+    "rating": 4.5,
+    "reviewCount": 156,
+    "reviews": [
+      {
+        "author": "Marco",
+        "rating": 5,
+        "text": "Authentic carbonara.",
+        "date": "2026-02-20"
+      }
+    ]
+  },
+  {
+    "id": "pt-lis-001",
+    "name": "Lisboa Seafood Grill",
+    "category": "Restaurant",
+    "address": "Rua Augusta 25",
+    "city": "Lisbon",
+    "region": "Lisbon",
+    "country": "PT",
+    "lat": 38.7078,
+    "lng": -9.1366,
+    "phone": "+351 21 555 1313",
+    "rating": 4.4,
+    "reviewCount": 98,
+    "reviews": [
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Fresh fish daily.",
+        "date": "2026-03-08"
+      }
+    ]
+  },
+  {
+    "id": "jp-tok-001",
+    "name": "Shibuya Ramen Lab",
+    "category": "Restaurant",
+    "address": "2-1 Dogenzaka",
+    "city": "Tokyo",
+    "region": "Tokyo",
+    "country": "JP",
+    "lat": 35.6595,
+    "lng": 139.7004,
+    "phone": "+81 3-5555-1414",
+    "rating": 4.8,
+    "reviewCount": 420,
+    "reviews": [
+      {
+        "author": "Yuki",
+        "rating": 5,
+        "text": "Rich broth, fast service.",
+        "date": "2026-04-05"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-001",
+    "name": "Restaurant New York #1",
+    "category": "Restaurant",
+    "address": "101 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.76101105229588,
+    "lng": -74.01580611582976,
+    "phone": "+1 555 1001",
+    "rating": 4.494520259968649,
+    "reviewCount": 42,
+    "email": "contact@us-gen-001.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-002",
+    "name": "Restaurant New York #2",
+    "category": "Restaurant",
+    "address": "102 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.701141488437365,
+    "lng": -73.9738856062758,
+    "phone": "+1 555 1002",
+    "rating": 3.7579394105328716,
+    "reviewCount": 19,
+    "email": "contact@us-gen-002.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-003",
+    "name": "Dental clinic New York #1",
+    "category": "Dental clinic",
+    "address": "103 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.703270217175856,
+    "lng": -73.99847792300473,
+    "phone": "+1 555 1003",
+    "rating": 4.113608088855716,
+    "reviewCount": 170,
+    "email": "contact@us-gen-003.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-004",
+    "name": "Dental clinic New York #2",
+    "category": "Dental clinic",
+    "address": "104 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.69635446209877,
+    "lng": -73.986485326044,
+    "phone": "+1 555 1004",
+    "rating": 4.131568304708563,
+    "reviewCount": 77,
+    "email": "contact@us-gen-004.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-005",
+    "name": "Gym New York #1",
+    "category": "Gym",
+    "address": "105 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.76480410484792,
+    "lng": -74.01142238888099,
+    "phone": "+1 555 1005",
+    "rating": 4.519627894852594,
+    "reviewCount": 45,
+    "email": "contact@us-gen-005.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-006",
+    "name": "Gym New York #2",
+    "category": "Gym",
+    "address": "106 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.74592461728486,
+    "lng": -73.98039394294743,
+    "phone": "+1 555 1006",
+    "rating": 4.293748200345297,
+    "reviewCount": 19,
+    "email": "contact@us-gen-006.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-007",
+    "name": "Law firm New York #1",
+    "category": "Law firm",
+    "address": "107 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.718649900180445,
+    "lng": -73.96752490500198,
+    "phone": "+1 555 1007",
+    "rating": 3.777288502371717,
+    "reviewCount": 31,
+    "email": "contact@us-gen-007.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-008",
+    "name": "Law firm New York #2",
+    "category": "Law firm",
+    "address": "108 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.701553127037776,
+    "lng": -74.02958116522234,
+    "phone": "+1 555 1008",
+    "rating": 4.283541135550519,
+    "reviewCount": 80,
+    "email": "contact@us-gen-008.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-009",
+    "name": "Hotel New York #1",
+    "category": "Hotel",
+    "address": "109 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.70449003028998,
+    "lng": -73.97403658887463,
+    "phone": "+1 555 1009",
+    "rating": 4.050708428526235,
+    "reviewCount": 100,
+    "email": "contact@us-gen-009.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-010",
+    "name": "Hotel New York #2",
+    "category": "Hotel",
+    "address": "110 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.698247239845536,
+    "lng": -73.96490914063867,
+    "phone": "+1 555 1010",
+    "rating": 3.9485675440813477,
+    "reviewCount": 197,
+    "email": "contact@us-gen-010.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-011",
+    "name": "Cafe New York #1",
+    "category": "Cafe",
+    "address": "111 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.70494480722636,
+    "lng": -73.9609824461457,
+    "phone": "+1 555 1011",
+    "rating": 4.184178506818159,
+    "reviewCount": 191,
+    "email": "contact@us-gen-011.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-012",
+    "name": "Cafe New York #2",
+    "category": "Cafe",
+    "address": "112 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.765088209574216,
+    "lng": -74.02283367084098,
+    "phone": "+1 555 1012",
+    "rating": 3.9578084930747304,
+    "reviewCount": 162,
+    "email": "contact@us-gen-012.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-013",
+    "name": "Retail New York #1",
+    "category": "Retail",
+    "address": "113 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.74798278003125,
+    "lng": -74.00610097745152,
+    "phone": "+1 555 1013",
+    "rating": 3.924763513886698,
+    "reviewCount": 106,
+    "email": "contact@us-gen-013.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-014",
+    "name": "Retail New York #2",
+    "category": "Retail",
+    "address": "114 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.71263976605916,
+    "lng": -73.99229468612886,
+    "phone": "+1 555 1014",
+    "rating": 4.097080349854431,
+    "reviewCount": 106,
+    "email": "contact@us-gen-014.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-015",
+    "name": "Auto repair New York #1",
+    "category": "Auto repair",
+    "address": "115 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.71016623189166,
+    "lng": -73.98054923688906,
+    "phone": "+1 555 1015",
+    "rating": 4.54342998701701,
+    "reviewCount": 148,
+    "email": "contact@us-gen-015.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-016",
+    "name": "Auto repair New York #2",
+    "category": "Auto repair",
+    "address": "116 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.7330584004032,
+    "lng": -74.02834161572318,
+    "phone": "+1 555 1016",
+    "rating": 4.949402001585247,
+    "reviewCount": 139,
+    "email": "contact@us-gen-016.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-017",
+    "name": "Salon New York #1",
+    "category": "Salon",
+    "address": "117 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.72724739877959,
+    "lng": -73.99131171425394,
+    "phone": "+1 555 1017",
+    "rating": 4.602734927653833,
+    "reviewCount": 106,
+    "email": "contact@us-gen-017.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-018",
+    "name": "Salon New York #2",
+    "category": "Salon",
+    "address": "118 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.711581291606734,
+    "lng": -73.97277097246442,
+    "phone": "+1 555 1018",
+    "rating": 3.6590460378478187,
+    "reviewCount": 6,
+    "email": "contact@us-gen-018.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-019",
+    "name": "Real estate New York #1",
+    "category": "Real estate",
+    "address": "119 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.70357860776187,
+    "lng": -74.00350351842836,
+    "phone": "+1 555 1019",
+    "rating": 3.5733685106382502,
+    "reviewCount": 84,
+    "email": "contact@us-gen-019.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-020",
+    "name": "Real estate New York #2",
+    "category": "Real estate",
+    "address": "120 Main St",
+    "city": "New York",
+    "region": "New York",
+    "country": "US",
+    "lat": 40.7499925026497,
+    "lng": -74.02876873165421,
+    "phone": "+1 555 1020",
+    "rating": 4.965136517321048,
+    "reviewCount": 135,
+    "email": "contact@us-gen-020.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-021",
+    "name": "Restaurant Los Angeles #1",
+    "category": "Restaurant",
+    "address": "121 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.061116981106146,
+    "lng": -118.26932820150928,
+    "phone": "+1 555 1021",
+    "rating": 3.609993739593757,
+    "reviewCount": 151,
+    "email": "contact@us-gen-021.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-022",
+    "name": "Restaurant Los Angeles #2",
+    "category": "Restaurant",
+    "address": "122 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.018243387116335,
+    "lng": -118.24830764061372,
+    "phone": "+1 555 1022",
+    "rating": 4.463990543662775,
+    "reviewCount": 96,
+    "email": "contact@us-gen-022.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-023",
+    "name": "Dental clinic Los Angeles #1",
+    "category": "Dental clinic",
+    "address": "123 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.048116813950536,
+    "lng": -118.22053402201621,
+    "phone": "+1 555 1023",
+    "rating": 3.6282830515467563,
+    "reviewCount": 127,
+    "email": "contact@us-gen-023.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-024",
+    "name": "Dental clinic Los Angeles #2",
+    "category": "Dental clinic",
+    "address": "124 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.04405421117967,
+    "lng": -118.21378745925935,
+    "phone": "+1 555 1024",
+    "rating": 4.504086389394765,
+    "reviewCount": 140,
+    "email": "contact@us-gen-024.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-025",
+    "name": "Gym Los Angeles #1",
+    "category": "Gym",
+    "address": "125 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.04666119983061,
+    "lng": -118.2215234423746,
+    "phone": "+1 555 1025",
+    "rating": 4.224950619482516,
+    "reviewCount": 183,
+    "email": "contact@us-gen-025.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-026",
+    "name": "Gym Los Angeles #2",
+    "category": "Gym",
+    "address": "126 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.082990832085436,
+    "lng": -118.23019713768488,
+    "phone": "+1 555 1026",
+    "rating": 4.3115125275448785,
+    "reviewCount": 125,
+    "email": "contact@us-gen-026.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-027",
+    "name": "Law firm Los Angeles #1",
+    "category": "Law firm",
+    "address": "127 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.01719617117818,
+    "lng": -118.21470276446459,
+    "phone": "+1 555 1027",
+    "rating": 3.6968616068543767,
+    "reviewCount": 136,
+    "email": "contact@us-gen-027.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-028",
+    "name": "Law firm Los Angeles #2",
+    "category": "Law firm",
+    "address": "128 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.08634170036306,
+    "lng": -118.22014619928059,
+    "phone": "+1 555 1028",
+    "rating": 4.595912863120685,
+    "reviewCount": 193,
+    "email": "contact@us-gen-028.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-029",
+    "name": "Hotel Los Angeles #1",
+    "category": "Hotel",
+    "address": "129 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.05676180697276,
+    "lng": -118.20259185234285,
+    "phone": "+1 555 1029",
+    "rating": 4.3313669450289085,
+    "reviewCount": 115,
+    "email": "contact@us-gen-029.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-030",
+    "name": "Hotel Los Angeles #2",
+    "category": "Hotel",
+    "address": "130 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.01217164131204,
+    "lng": -118.22276328912517,
+    "phone": "+1 555 1030",
+    "rating": 3.9645273079710317,
+    "reviewCount": 139,
+    "email": "contact@us-gen-030.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-031",
+    "name": "Cafe Los Angeles #1",
+    "category": "Cafe",
+    "address": "131 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.01816351794638,
+    "lng": -118.22680638301192,
+    "phone": "+1 555 1031",
+    "rating": 4.853968085164944,
+    "reviewCount": 150,
+    "email": "contact@us-gen-031.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-032",
+    "name": "Cafe Los Angeles #2",
+    "category": "Cafe",
+    "address": "132 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.07349698948081,
+    "lng": -118.26423424504819,
+    "phone": "+1 555 1032",
+    "rating": 3.5583589566255065,
+    "reviewCount": 86,
+    "email": "contact@us-gen-032.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-033",
+    "name": "Retail Los Angeles #1",
+    "category": "Retail",
+    "address": "133 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.0568599874774,
+    "lng": -118.20019224460535,
+    "phone": "+1 555 1033",
+    "rating": 3.519637956599532,
+    "reviewCount": 107,
+    "email": "contact@us-gen-033.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-034",
+    "name": "Retail Los Angeles #2",
+    "category": "Retail",
+    "address": "134 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.03073592942743,
+    "lng": -118.26595611674512,
+    "phone": "+1 555 1034",
+    "rating": 4.8988886774137725,
+    "reviewCount": 161,
+    "email": "contact@us-gen-034.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-035",
+    "name": "Auto repair Los Angeles #1",
+    "category": "Auto repair",
+    "address": "135 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.08113136067654,
+    "lng": -118.25570452329097,
+    "phone": "+1 555 1035",
+    "rating": 3.7115373384871404,
+    "reviewCount": 31,
+    "email": "contact@us-gen-035.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-036",
+    "name": "Auto repair Los Angeles #2",
+    "category": "Auto repair",
+    "address": "136 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.08008229184887,
+    "lng": -118.26219104826099,
+    "phone": "+1 555 1036",
+    "rating": 4.9571113214339295,
+    "reviewCount": 26,
+    "email": "contact@us-gen-036.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-037",
+    "name": "Salon Los Angeles #1",
+    "category": "Salon",
+    "address": "137 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.01134597648335,
+    "lng": -118.22843800063087,
+    "phone": "+1 555 1037",
+    "rating": 3.5929742488786287,
+    "reviewCount": 6,
+    "email": "contact@us-gen-037.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-038",
+    "name": "Salon Los Angeles #2",
+    "category": "Salon",
+    "address": "138 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.02878442032161,
+    "lng": -118.22210134931368,
+    "phone": "+1 555 1038",
+    "rating": 4.000052060968673,
+    "reviewCount": 174,
+    "email": "contact@us-gen-038.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-039",
+    "name": "Real estate Los Angeles #1",
+    "category": "Real estate",
+    "address": "139 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.077137511843155,
+    "lng": -118.2292987664125,
+    "phone": "+1 555 1039",
+    "rating": 4.050135939177961,
+    "reviewCount": 140,
+    "email": "contact@us-gen-039.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-040",
+    "name": "Real estate Los Angeles #2",
+    "category": "Real estate",
+    "address": "140 Main St",
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "lat": 34.07992616855244,
+    "lng": -118.22290290007399,
+    "phone": "+1 555 1040",
+    "rating": 4.483684207260646,
+    "reviewCount": 195,
+    "email": "contact@us-gen-040.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-041",
+    "name": "Restaurant Houston #1",
+    "category": "Restaurant",
+    "address": "141 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.7399411238112,
+    "lng": -95.3996135626532,
+    "phone": "+1 555 1041",
+    "rating": 4.334665816627208,
+    "reviewCount": 111,
+    "email": "contact@us-gen-041.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-042",
+    "name": "Restaurant Houston #2",
+    "category": "Restaurant",
+    "address": "142 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.751832164716443,
+    "lng": -95.37161944800071,
+    "phone": "+1 555 1042",
+    "rating": 4.109357739529065,
+    "reviewCount": 115,
+    "email": "contact@us-gen-042.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-043",
+    "name": "Dental clinic Houston #1",
+    "category": "Dental clinic",
+    "address": "143 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.771347793030543,
+    "lng": -95.33367465241137,
+    "phone": "+1 555 1043",
+    "rating": 4.28530713991614,
+    "reviewCount": 173,
+    "email": "contact@us-gen-043.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-044",
+    "name": "Dental clinic Houston #2",
+    "category": "Dental clinic",
+    "address": "144 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.728642809525635,
+    "lng": -95.34563807456077,
+    "phone": "+1 555 1044",
+    "rating": 4.0449913521536365,
+    "reviewCount": 47,
+    "email": "contact@us-gen-044.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-045",
+    "name": "Gym Houston #1",
+    "category": "Gym",
+    "address": "145 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.786379401284186,
+    "lng": -95.36761996806203,
+    "phone": "+1 555 1045",
+    "rating": 4.484673437647689,
+    "reviewCount": 30,
+    "email": "contact@us-gen-045.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-046",
+    "name": "Gym Houston #2",
+    "category": "Gym",
+    "address": "146 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.741634614901567,
+    "lng": -95.35128846316438,
+    "phone": "+1 555 1046",
+    "rating": 4.0657448682509205,
+    "reviewCount": 114,
+    "email": "contact@us-gen-046.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-047",
+    "name": "Law firm Houston #1",
+    "category": "Law firm",
+    "address": "147 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.755680241645535,
+    "lng": -95.39846153476276,
+    "phone": "+1 555 1047",
+    "rating": 4.414081774715524,
+    "reviewCount": 94,
+    "email": "contact@us-gen-047.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-048",
+    "name": "Law firm Houston #2",
+    "category": "Law firm",
+    "address": "148 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.77969797470098,
+    "lng": -95.35793801901791,
+    "phone": "+1 555 1048",
+    "rating": 4.1023797090454055,
+    "reviewCount": 154,
+    "email": "contact@us-gen-048.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-049",
+    "name": "Hotel Houston #1",
+    "category": "Hotel",
+    "address": "149 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.79475752876728,
+    "lng": -95.3330677113075,
+    "phone": "+1 555 1049",
+    "rating": 3.7515778308520122,
+    "reviewCount": 112,
+    "email": "contact@us-gen-049.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-050",
+    "name": "Hotel Houston #2",
+    "category": "Hotel",
+    "address": "150 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.78806109892675,
+    "lng": -95.37260662906235,
+    "phone": "+1 555 1050",
+    "rating": 3.5531609631924486,
+    "reviewCount": 155,
+    "email": "contact@us-gen-050.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-051",
+    "name": "Cafe Houston #1",
+    "category": "Cafe",
+    "address": "151 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.779163765438124,
+    "lng": -95.40191512690244,
+    "phone": "+1 555 1051",
+    "rating": 4.098025636711958,
+    "reviewCount": 55,
+    "email": "contact@us-gen-051.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-052",
+    "name": "Cafe Houston #2",
+    "category": "Cafe",
+    "address": "152 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.72871916991823,
+    "lng": -95.36567491708145,
+    "phone": "+1 555 1052",
+    "rating": 4.622892885634755,
+    "reviewCount": 82,
+    "email": "contact@us-gen-052.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-053",
+    "name": "Retail Houston #1",
+    "category": "Retail",
+    "address": "153 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.7246654877421,
+    "lng": -95.33207408316248,
+    "phone": "+1 555 1053",
+    "rating": 4.030270876693587,
+    "reviewCount": 125,
+    "email": "contact@us-gen-053.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-054",
+    "name": "Retail Houston #2",
+    "category": "Retail",
+    "address": "154 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.754591966438742,
+    "lng": -95.3479577156699,
+    "phone": "+1 555 1054",
+    "rating": 4.319756413720846,
+    "reviewCount": 138,
+    "email": "contact@us-gen-054.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-055",
+    "name": "Auto repair Houston #1",
+    "category": "Auto repair",
+    "address": "155 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.720243255940428,
+    "lng": -95.36926982692032,
+    "phone": "+1 555 1055",
+    "rating": 3.6579553953306703,
+    "reviewCount": 90,
+    "email": "contact@us-gen-055.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-056",
+    "name": "Auto repair Houston #2",
+    "category": "Auto repair",
+    "address": "156 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.756924353564962,
+    "lng": -95.37926546692742,
+    "phone": "+1 555 1056",
+    "rating": 3.849284801582057,
+    "reviewCount": 118,
+    "email": "contact@us-gen-056.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-057",
+    "name": "Salon Houston #1",
+    "category": "Salon",
+    "address": "157 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.77317848231402,
+    "lng": -95.33265567023494,
+    "phone": "+1 555 1057",
+    "rating": 4.911150338238125,
+    "reviewCount": 77,
+    "email": "contact@us-gen-057.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-058",
+    "name": "Salon Houston #2",
+    "category": "Salon",
+    "address": "158 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.77754464310816,
+    "lng": -95.40893363144468,
+    "phone": "+1 555 1058",
+    "rating": 4.928229859483666,
+    "reviewCount": 57,
+    "email": "contact@us-gen-058.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-059",
+    "name": "Real estate Houston #1",
+    "category": "Real estate",
+    "address": "159 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.727523542751122,
+    "lng": -95.33533188105183,
+    "phone": "+1 555 1059",
+    "rating": 4.58871727751984,
+    "reviewCount": 188,
+    "email": "contact@us-gen-059.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-060",
+    "name": "Real estate Houston #2",
+    "category": "Real estate",
+    "address": "160 Main St",
+    "city": "Houston",
+    "region": "Texas",
+    "country": "US",
+    "lat": 29.767175120113915,
+    "lng": -95.33572721915029,
+    "phone": "+1 555 1060",
+    "rating": 3.8558767940135787,
+    "reviewCount": 198,
+    "email": "contact@us-gen-060.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-061",
+    "name": "Restaurant Miami #1",
+    "category": "Restaurant",
+    "address": "161 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.781940794264518,
+    "lng": -80.19910059597194,
+    "phone": "+1 555 1061",
+    "rating": 3.52692484131641,
+    "reviewCount": 97,
+    "email": "contact@us-gen-061.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-062",
+    "name": "Restaurant Miami #2",
+    "category": "Restaurant",
+    "address": "162 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.79060597033575,
+    "lng": -80.17881853822487,
+    "phone": "+1 555 1062",
+    "rating": 4.608812689113579,
+    "reviewCount": 51,
+    "email": "contact@us-gen-062.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-063",
+    "name": "Dental clinic Miami #1",
+    "category": "Dental clinic",
+    "address": "163 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.74364515977595,
+    "lng": -80.18020422373691,
+    "phone": "+1 555 1063",
+    "rating": 4.119929267034941,
+    "reviewCount": 162,
+    "email": "contact@us-gen-063.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-064",
+    "name": "Dental clinic Miami #2",
+    "category": "Dental clinic",
+    "address": "164 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.73196231365449,
+    "lng": -80.1667133985702,
+    "phone": "+1 555 1064",
+    "rating": 4.419263918042346,
+    "reviewCount": 171,
+    "email": "contact@us-gen-064.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-065",
+    "name": "Gym Miami #1",
+    "category": "Gym",
+    "address": "165 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.75159369369247,
+    "lng": -80.17728975639031,
+    "phone": "+1 555 1065",
+    "rating": 4.8304343549959885,
+    "reviewCount": 151,
+    "email": "contact@us-gen-065.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-066",
+    "name": "Gym Miami #2",
+    "category": "Gym",
+    "address": "166 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.721047049839402,
+    "lng": -80.21511952465197,
+    "phone": "+1 555 1066",
+    "rating": 4.105254285653139,
+    "reviewCount": 32,
+    "email": "contact@us-gen-066.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-067",
+    "name": "Law firm Miami #1",
+    "category": "Law firm",
+    "address": "167 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.749435425435493,
+    "lng": -80.20168811629581,
+    "phone": "+1 555 1067",
+    "rating": 4.265421364947647,
+    "reviewCount": 58,
+    "email": "contact@us-gen-067.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-068",
+    "name": "Law firm Miami #2",
+    "category": "Law firm",
+    "address": "168 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.745018087361398,
+    "lng": -80.17545174878944,
+    "phone": "+1 555 1068",
+    "rating": 4.063248447124181,
+    "reviewCount": 20,
+    "email": "contact@us-gen-068.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-069",
+    "name": "Hotel Miami #1",
+    "category": "Hotel",
+    "address": "169 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.776397541119238,
+    "lng": -80.1844269824321,
+    "phone": "+1 555 1069",
+    "rating": 4.2570437746711,
+    "reviewCount": 99,
+    "email": "contact@us-gen-069.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-070",
+    "name": "Hotel Miami #2",
+    "category": "Hotel",
+    "address": "170 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.764236788268104,
+    "lng": -80.17065644920702,
+    "phone": "+1 555 1070",
+    "rating": 3.9157803887138116,
+    "reviewCount": 65,
+    "email": "contact@us-gen-070.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-071",
+    "name": "Cafe Miami #1",
+    "category": "Cafe",
+    "address": "171 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.733931457765973,
+    "lng": -80.16515487012859,
+    "phone": "+1 555 1071",
+    "rating": 4.338802294011114,
+    "reviewCount": 9,
+    "email": "contact@us-gen-071.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-072",
+    "name": "Cafe Miami #2",
+    "category": "Cafe",
+    "address": "172 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.791115545052588,
+    "lng": -80.22019947111497,
+    "phone": "+1 555 1072",
+    "rating": 4.585741449269248,
+    "reviewCount": 112,
+    "email": "contact@us-gen-072.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-073",
+    "name": "Retail Miami #1",
+    "category": "Retail",
+    "address": "173 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.75974641168279,
+    "lng": -80.2159224628585,
+    "phone": "+1 555 1073",
+    "rating": 4.871266255318098,
+    "reviewCount": 69,
+    "email": "contact@us-gen-073.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-074",
+    "name": "Retail Miami #2",
+    "category": "Retail",
+    "address": "174 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.768207570647878,
+    "lng": -80.20523489423857,
+    "phone": "+1 555 1074",
+    "rating": 4.774693378903287,
+    "reviewCount": 42,
+    "email": "contact@us-gen-074.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-075",
+    "name": "Auto repair Miami #1",
+    "category": "Auto repair",
+    "address": "175 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.74207531606225,
+    "lng": -80.17497542616887,
+    "phone": "+1 555 1075",
+    "rating": 4.763346576019698,
+    "reviewCount": 97,
+    "email": "contact@us-gen-075.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-076",
+    "name": "Auto repair Miami #2",
+    "category": "Auto repair",
+    "address": "176 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.777215300707194,
+    "lng": -80.16093439016203,
+    "phone": "+1 555 1076",
+    "rating": 3.8361570224803736,
+    "reviewCount": 26,
+    "email": "contact@us-gen-076.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-077",
+    "name": "Salon Miami #1",
+    "category": "Salon",
+    "address": "177 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.798079718445244,
+    "lng": -80.22042906979169,
+    "phone": "+1 555 1077",
+    "rating": 3.5172624999180493,
+    "reviewCount": 77,
+    "email": "contact@us-gen-077.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-078",
+    "name": "Salon Miami #2",
+    "category": "Salon",
+    "address": "178 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.789508244986507,
+    "lng": -80.20963818564935,
+    "phone": "+1 555 1078",
+    "rating": 4.79239724844069,
+    "reviewCount": 52,
+    "email": "contact@us-gen-078.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-079",
+    "name": "Real estate Miami #1",
+    "category": "Real estate",
+    "address": "179 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.796759790576928,
+    "lng": -80.20460650536073,
+    "phone": "+1 555 1079",
+    "rating": 4.619134742377817,
+    "reviewCount": 18,
+    "email": "contact@us-gen-079.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "us-gen-080",
+    "name": "Real estate Miami #2",
+    "category": "Real estate",
+    "address": "180 Main St",
+    "city": "Miami",
+    "region": "Florida",
+    "country": "US",
+    "lat": 25.77804151651499,
+    "lng": -80.19454312500389,
+    "phone": "+1 555 1080",
+    "rating": 4.800225153447277,
+    "reviewCount": 48,
+    "email": "contact@us-gen-080.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-081",
+    "name": "Restaurant London #1",
+    "category": "Restaurant",
+    "address": "181 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.512514750344735,
+    "lng": -0.1328397502536803,
+    "phone": "+1 555 1081",
+    "rating": 3.784886325579726,
+    "reviewCount": 18,
+    "email": "contact@gb-gen-081.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-082",
+    "name": "Restaurant London #2",
+    "category": "Restaurant",
+    "address": "182 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.48170450261426,
+    "lng": -0.16372111167063375,
+    "phone": "+1 555 1082",
+    "rating": 4.6977575996676215,
+    "reviewCount": 48,
+    "email": "contact@gb-gen-082.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-083",
+    "name": "Dental clinic London #1",
+    "category": "Dental clinic",
+    "address": "183 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.471675939123394,
+    "lng": -0.15365550948543266,
+    "phone": "+1 555 1083",
+    "rating": 3.5229499100110404,
+    "reviewCount": 123,
+    "email": "contact@gb-gen-083.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-084",
+    "name": "Dental clinic London #2",
+    "category": "Dental clinic",
+    "address": "184 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.48690949113871,
+    "lng": -0.14453246135704592,
+    "phone": "+1 555 1084",
+    "rating": 3.8817972808343337,
+    "reviewCount": 117,
+    "email": "contact@gb-gen-084.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-085",
+    "name": "Gym London #1",
+    "category": "Gym",
+    "address": "185 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.51362923966186,
+    "lng": -0.1599770904563631,
+    "phone": "+1 555 1085",
+    "rating": 4.11625893598262,
+    "reviewCount": 95,
+    "email": "contact@gb-gen-085.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-086",
+    "name": "Gym London #2",
+    "category": "Gym",
+    "address": "186 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.52153146462353,
+    "lng": -0.1438891071514385,
+    "phone": "+1 555 1086",
+    "rating": 3.804246324475624,
+    "reviewCount": 182,
+    "email": "contact@gb-gen-086.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-087",
+    "name": "Law firm London #1",
+    "category": "Law firm",
+    "address": "187 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.52952096361382,
+    "lng": -0.1268524278300289,
+    "phone": "+1 555 1087",
+    "rating": 4.037932473935148,
+    "reviewCount": 113,
+    "email": "contact@gb-gen-087.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-088",
+    "name": "Law firm London #2",
+    "category": "Law firm",
+    "address": "188 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.547747766521205,
+    "lng": -0.10591452936799811,
+    "phone": "+1 555 1088",
+    "rating": 4.262942323410086,
+    "reviewCount": 102,
+    "email": "contact@gb-gen-088.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-089",
+    "name": "Hotel London #1",
+    "category": "Hotel",
+    "address": "189 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.54144692317292,
+    "lng": -0.1102687182564723,
+    "phone": "+1 555 1089",
+    "rating": 3.6600145554189654,
+    "reviewCount": 175,
+    "email": "contact@gb-gen-089.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-090",
+    "name": "Hotel London #2",
+    "category": "Hotel",
+    "address": "190 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.47358957231624,
+    "lng": -0.1292590483571962,
+    "phone": "+1 555 1090",
+    "rating": 4.681179449455204,
+    "reviewCount": 187,
+    "email": "contact@gb-gen-090.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-091",
+    "name": "Cafe London #1",
+    "category": "Cafe",
+    "address": "191 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.53904350260349,
+    "lng": -0.10918566757687082,
+    "phone": "+1 555 1091",
+    "rating": 4.291399824537679,
+    "reviewCount": 18,
+    "email": "contact@gb-gen-091.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-092",
+    "name": "Cafe London #2",
+    "category": "Cafe",
+    "address": "192 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.545213750609385,
+    "lng": -0.10977913708906642,
+    "phone": "+1 555 1092",
+    "rating": 4.356584662223702,
+    "reviewCount": 192,
+    "email": "contact@gb-gen-092.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-093",
+    "name": "Retail London #1",
+    "category": "Retail",
+    "address": "193 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.545938220911005,
+    "lng": -0.12177232147509495,
+    "phone": "+1 555 1093",
+    "rating": 3.534909383834562,
+    "reviewCount": 198,
+    "email": "contact@gb-gen-093.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-094",
+    "name": "Retail London #2",
+    "category": "Retail",
+    "address": "194 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.53688809567934,
+    "lng": -0.09959971626207734,
+    "phone": "+1 555 1094",
+    "rating": 3.7528477509614335,
+    "reviewCount": 64,
+    "email": "contact@gb-gen-094.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-095",
+    "name": "Auto repair London #1",
+    "category": "Auto repair",
+    "address": "195 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.492511360092685,
+    "lng": -0.15081894727710846,
+    "phone": "+1 555 1095",
+    "rating": 4.751144402381895,
+    "reviewCount": 168,
+    "email": "contact@gb-gen-095.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-096",
+    "name": "Auto repair London #2",
+    "category": "Auto repair",
+    "address": "196 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.477281638196395,
+    "lng": -0.12663003661783742,
+    "phone": "+1 555 1096",
+    "rating": 4.894860884788443,
+    "reviewCount": 86,
+    "email": "contact@gb-gen-096.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-097",
+    "name": "Salon London #1",
+    "category": "Salon",
+    "address": "197 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.4976998122292,
+    "lng": -0.13807466273834734,
+    "phone": "+1 555 1097",
+    "rating": 4.220312643139053,
+    "reviewCount": 51,
+    "email": "contact@gb-gen-097.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-098",
+    "name": "Salon London #2",
+    "category": "Salon",
+    "address": "198 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.47770608068398,
+    "lng": -0.09072279306161202,
+    "phone": "+1 555 1098",
+    "rating": 3.8282953852327286,
+    "reviewCount": 90,
+    "email": "contact@gb-gen-098.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-099",
+    "name": "Real estate London #1",
+    "category": "Real estate",
+    "address": "199 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.51223015593077,
+    "lng": -0.13685471898003707,
+    "phone": "+1 555 1099",
+    "rating": 3.9534938859344355,
+    "reviewCount": 21,
+    "email": "contact@gb-gen-099.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "gb-gen-100",
+    "name": "Real estate London #2",
+    "category": "Real estate",
+    "address": "200 Main St",
+    "city": "London",
+    "region": "England",
+    "country": "GB",
+    "lat": 51.52152395198472,
+    "lng": -0.14672106781929778,
+    "phone": "+1 555 1100",
+    "rating": 4.343230434786039,
+    "reviewCount": 150,
+    "email": "contact@gb-gen-100.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-101",
+    "name": "Restaurant Paris #1",
+    "category": "Restaurant",
+    "address": "201 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.82347424762866,
+    "lng": 2.3123260764867593,
+    "phone": "+1 555 1101",
+    "rating": 4.505670605090782,
+    "reviewCount": 127,
+    "email": "contact@fr-gen-101.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-102",
+    "name": "Restaurant Paris #2",
+    "category": "Restaurant",
+    "address": "202 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.85949206793119,
+    "lng": 2.3281890097189226,
+    "phone": "+1 555 1102",
+    "rating": 3.681029681040574,
+    "reviewCount": 156,
+    "email": "contact@fr-gen-102.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-103",
+    "name": "Dental clinic Paris #1",
+    "category": "Dental clinic",
+    "address": "203 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.871416515786514,
+    "lng": 2.322829611522708,
+    "phone": "+1 555 1103",
+    "rating": 4.717847751246362,
+    "reviewCount": 24,
+    "email": "contact@fr-gen-103.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-104",
+    "name": "Dental clinic Paris #2",
+    "category": "Dental clinic",
+    "address": "204 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.85983946501397,
+    "lng": 2.3826153424496463,
+    "phone": "+1 555 1104",
+    "rating": 4.79445379305738,
+    "reviewCount": 47,
+    "email": "contact@fr-gen-104.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-105",
+    "name": "Gym Paris #1",
+    "category": "Gym",
+    "address": "205 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.84279613169784,
+    "lng": 2.3646927152323114,
+    "phone": "+1 555 1105",
+    "rating": 4.007909481421688,
+    "reviewCount": 64,
+    "email": "contact@fr-gen-105.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-106",
+    "name": "Gym Paris #2",
+    "category": "Gym",
+    "address": "206 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.87270842240728,
+    "lng": 2.3636878043796252,
+    "phone": "+1 555 1106",
+    "rating": 4.971918875577134,
+    "reviewCount": 37,
+    "email": "contact@fr-gen-106.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-107",
+    "name": "Law firm Paris #1",
+    "category": "Law firm",
+    "address": "207 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.82234540748218,
+    "lng": 2.3804243740014632,
+    "phone": "+1 555 1107",
+    "rating": 3.7822835158795,
+    "reviewCount": 181,
+    "email": "contact@fr-gen-107.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-108",
+    "name": "Law firm Paris #2",
+    "category": "Law firm",
+    "address": "208 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.85743033108883,
+    "lng": 2.360470621540947,
+    "phone": "+1 555 1108",
+    "rating": 3.9871400334353857,
+    "reviewCount": 153,
+    "email": "contact@fr-gen-108.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-109",
+    "name": "Hotel Paris #1",
+    "category": "Hotel",
+    "address": "209 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.855043963457405,
+    "lng": 2.3119938726095737,
+    "phone": "+1 555 1109",
+    "rating": 4.171965423683412,
+    "reviewCount": 94,
+    "email": "contact@fr-gen-109.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-110",
+    "name": "Hotel Paris #2",
+    "category": "Hotel",
+    "address": "210 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.87927982055114,
+    "lng": 2.381472131014576,
+    "phone": "+1 555 1110",
+    "rating": 3.8013523368252384,
+    "reviewCount": 72,
+    "email": "contact@fr-gen-110.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-111",
+    "name": "Cafe Paris #1",
+    "category": "Cafe",
+    "address": "211 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.877065084920254,
+    "lng": 2.38421631839731,
+    "phone": "+1 555 1111",
+    "rating": 4.969456904455226,
+    "reviewCount": 191,
+    "email": "contact@fr-gen-111.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-112",
+    "name": "Cafe Paris #2",
+    "category": "Cafe",
+    "address": "212 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.89872794109075,
+    "lng": 2.3858782767014186,
+    "phone": "+1 555 1112",
+    "rating": 3.898217611130244,
+    "reviewCount": 78,
+    "email": "contact@fr-gen-112.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-113",
+    "name": "Retail Paris #1",
+    "category": "Retail",
+    "address": "213 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.879923657100214,
+    "lng": 2.332299473079029,
+    "phone": "+1 555 1113",
+    "rating": 4.664475901621805,
+    "reviewCount": 124,
+    "email": "contact@fr-gen-113.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-114",
+    "name": "Retail Paris #2",
+    "category": "Retail",
+    "address": "214 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.87111906985155,
+    "lng": 2.3410513245860427,
+    "phone": "+1 555 1114",
+    "rating": 4.066797189726533,
+    "reviewCount": 161,
+    "email": "contact@fr-gen-114.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-115",
+    "name": "Auto repair Paris #1",
+    "category": "Auto repair",
+    "address": "215 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.86797934733912,
+    "lng": 2.3237489270190714,
+    "phone": "+1 555 1115",
+    "rating": 4.843782306972589,
+    "reviewCount": 32,
+    "email": "contact@fr-gen-115.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-116",
+    "name": "Auto repair Paris #2",
+    "category": "Auto repair",
+    "address": "216 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.83774221377328,
+    "lng": 2.389011582656435,
+    "phone": "+1 555 1116",
+    "rating": 3.5347057743822052,
+    "reviewCount": 95,
+    "email": "contact@fr-gen-116.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-117",
+    "name": "Salon Paris #1",
+    "category": "Salon",
+    "address": "217 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.89882277024527,
+    "lng": 2.3354070934567397,
+    "phone": "+1 555 1117",
+    "rating": 4.712548087022911,
+    "reviewCount": 199,
+    "email": "contact@fr-gen-117.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-118",
+    "name": "Salon Paris #2",
+    "category": "Salon",
+    "address": "218 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.89410871371975,
+    "lng": 2.310843096387729,
+    "phone": "+1 555 1118",
+    "rating": 4.378424610820588,
+    "reviewCount": 107,
+    "email": "contact@fr-gen-118.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-119",
+    "name": "Real estate Paris #1",
+    "category": "Real estate",
+    "address": "219 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.89026006685047,
+    "lng": 2.36376752636287,
+    "phone": "+1 555 1119",
+    "rating": 4.612609435729139,
+    "reviewCount": 132,
+    "email": "contact@fr-gen-119.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "fr-gen-120",
+    "name": "Real estate Paris #2",
+    "category": "Real estate",
+    "address": "220 Main St",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR",
+    "lat": 48.848123667763986,
+    "lng": 2.315707320037536,
+    "phone": "+1 555 1120",
+    "rating": 4.043132857686366,
+    "reviewCount": 144,
+    "email": "contact@fr-gen-120.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-121",
+    "name": "Restaurant Berlin #1",
+    "category": "Restaurant",
+    "address": "221 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.503976599304714,
+    "lng": 13.437031012849591,
+    "phone": "+1 555 1121",
+    "rating": 3.6217561163986574,
+    "reviewCount": 115,
+    "email": "contact@de-gen-121.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-122",
+    "name": "Restaurant Berlin #2",
+    "category": "Restaurant",
+    "address": "222 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.52015022305146,
+    "lng": 13.39555588969325,
+    "phone": "+1 555 1122",
+    "rating": 3.8247452202348833,
+    "reviewCount": 48,
+    "email": "contact@de-gen-122.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-123",
+    "name": "Dental clinic Berlin #1",
+    "category": "Dental clinic",
+    "address": "223 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.51806882322732,
+    "lng": 13.384560522205161,
+    "phone": "+1 555 1123",
+    "rating": 4.201098882276673,
+    "reviewCount": 99,
+    "email": "contact@de-gen-123.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-124",
+    "name": "Dental clinic Berlin #2",
+    "category": "Dental clinic",
+    "address": "224 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.55662362090215,
+    "lng": 13.413414659535501,
+    "phone": "+1 555 1124",
+    "rating": 4.458779012199104,
+    "reviewCount": 172,
+    "email": "contact@de-gen-124.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-125",
+    "name": "Gym Berlin #1",
+    "category": "Gym",
+    "address": "225 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.49439181633132,
+    "lng": 13.391919686363766,
+    "phone": "+1 555 1125",
+    "rating": 4.824731327299697,
+    "reviewCount": 124,
+    "email": "contact@de-gen-125.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-126",
+    "name": "Gym Berlin #2",
+    "category": "Gym",
+    "address": "226 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.522836503542614,
+    "lng": 13.387507154276136,
+    "phone": "+1 555 1126",
+    "rating": 4.519212802563462,
+    "reviewCount": 193,
+    "email": "contact@de-gen-126.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-127",
+    "name": "Law firm Berlin #1",
+    "category": "Law firm",
+    "address": "227 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.54324023786791,
+    "lng": 13.371771738256651,
+    "phone": "+1 555 1127",
+    "rating": 4.5792038681819305,
+    "reviewCount": 56,
+    "email": "contact@de-gen-127.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-128",
+    "name": "Law firm Berlin #2",
+    "category": "Law firm",
+    "address": "228 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.48067149153539,
+    "lng": 13.392336082568026,
+    "phone": "+1 555 1128",
+    "rating": 4.320745906770876,
+    "reviewCount": 0,
+    "email": "contact@de-gen-128.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-129",
+    "name": "Hotel Berlin #1",
+    "category": "Hotel",
+    "address": "229 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.535022985270025,
+    "lng": 13.378960536487876,
+    "phone": "+1 555 1129",
+    "rating": 3.9774947150752946,
+    "reviewCount": 105,
+    "email": "contact@de-gen-129.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-130",
+    "name": "Hotel Berlin #2",
+    "category": "Hotel",
+    "address": "230 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.527033998998654,
+    "lng": 13.389509326808405,
+    "phone": "+1 555 1130",
+    "rating": 4.293878111685604,
+    "reviewCount": 65,
+    "email": "contact@de-gen-130.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-131",
+    "name": "Cafe Berlin #1",
+    "category": "Cafe",
+    "address": "231 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.49677431946282,
+    "lng": 13.375353693634432,
+    "phone": "+1 555 1131",
+    "rating": 3.8862197511355805,
+    "reviewCount": 68,
+    "email": "contact@de-gen-131.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-132",
+    "name": "Cafe Berlin #2",
+    "category": "Cafe",
+    "address": "232 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.50816289200438,
+    "lng": 13.398635791315334,
+    "phone": "+1 555 1132",
+    "rating": 3.7686218333399064,
+    "reviewCount": 132,
+    "email": "contact@de-gen-132.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-133",
+    "name": "Retail Berlin #1",
+    "category": "Retail",
+    "address": "233 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.5399931452842,
+    "lng": 13.386385470727877,
+    "phone": "+1 555 1133",
+    "rating": 4.732472244018935,
+    "reviewCount": 119,
+    "email": "contact@de-gen-133.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-134",
+    "name": "Retail Berlin #2",
+    "category": "Retail",
+    "address": "234 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.51660292856809,
+    "lng": 13.391073929635532,
+    "phone": "+1 555 1134",
+    "rating": 4.288277928328115,
+    "reviewCount": 98,
+    "email": "contact@de-gen-134.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-135",
+    "name": "Auto repair Berlin #1",
+    "category": "Auto repair",
+    "address": "235 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.53300103496633,
+    "lng": 13.39903888257505,
+    "phone": "+1 555 1135",
+    "rating": 4.969545673392769,
+    "reviewCount": 144,
+    "email": "contact@de-gen-135.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-136",
+    "name": "Auto repair Berlin #2",
+    "category": "Auto repair",
+    "address": "236 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.497366098917915,
+    "lng": 13.426203443897936,
+    "phone": "+1 555 1136",
+    "rating": 3.6645568481425137,
+    "reviewCount": 34,
+    "email": "contact@de-gen-136.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-137",
+    "name": "Salon Berlin #1",
+    "category": "Salon",
+    "address": "237 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.49825125732563,
+    "lng": 13.425770269786826,
+    "phone": "+1 555 1137",
+    "rating": 4.314999403686558,
+    "reviewCount": 132,
+    "email": "contact@de-gen-137.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-138",
+    "name": "Salon Berlin #2",
+    "category": "Salon",
+    "address": "238 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.55475499920899,
+    "lng": 13.397227326116907,
+    "phone": "+1 555 1138",
+    "rating": 4.574463437870765,
+    "reviewCount": 143,
+    "email": "contact@de-gen-138.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-139",
+    "name": "Real estate Berlin #1",
+    "category": "Real estate",
+    "address": "239 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.535990693085346,
+    "lng": 13.432897117627766,
+    "phone": "+1 555 1139",
+    "rating": 4.084478217421084,
+    "reviewCount": 122,
+    "email": "contact@de-gen-139.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "de-gen-140",
+    "name": "Real estate Berlin #2",
+    "category": "Real estate",
+    "address": "240 Main St",
+    "city": "Berlin",
+    "region": "Berlin",
+    "country": "DE",
+    "lat": 52.55522452408087,
+    "lng": 13.412323702975527,
+    "phone": "+1 555 1140",
+    "rating": 4.994222259748786,
+    "reviewCount": 124,
+    "email": "contact@de-gen-140.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-141",
+    "name": "Restaurant Madrid #1",
+    "category": "Restaurant",
+    "address": "241 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.43294622214977,
+    "lng": -3.666296712291362,
+    "phone": "+1 555 1141",
+    "rating": 4.608130514389522,
+    "reviewCount": 139,
+    "email": "contact@es-gen-141.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-142",
+    "name": "Restaurant Madrid #2",
+    "category": "Restaurant",
+    "address": "242 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.41345590012664,
+    "lng": -3.7177563798962963,
+    "phone": "+1 555 1142",
+    "rating": 3.6969835854160413,
+    "reviewCount": 132,
+    "email": "contact@es-gen-142.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-143",
+    "name": "Dental clinic Madrid #1",
+    "category": "Dental clinic",
+    "address": "243 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.44995622961972,
+    "lng": -3.686383601510658,
+    "phone": "+1 555 1143",
+    "rating": 4.036600444364892,
+    "reviewCount": 143,
+    "email": "contact@es-gen-143.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-144",
+    "name": "Dental clinic Madrid #2",
+    "category": "Dental clinic",
+    "address": "244 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.446568233721386,
+    "lng": -3.687518026640713,
+    "phone": "+1 555 1144",
+    "rating": 4.442150560844187,
+    "reviewCount": 152,
+    "email": "contact@es-gen-144.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-145",
+    "name": "Gym Madrid #1",
+    "category": "Gym",
+    "address": "245 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.436153455482156,
+    "lng": -3.7154969854235356,
+    "phone": "+1 555 1145",
+    "rating": 3.7961905854732567,
+    "reviewCount": 186,
+    "email": "contact@es-gen-145.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-146",
+    "name": "Gym Madrid #2",
+    "category": "Gym",
+    "address": "246 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.42099551557486,
+    "lng": -3.6873159621049214,
+    "phone": "+1 555 1146",
+    "rating": 3.9389067375926174,
+    "reviewCount": 8,
+    "email": "contact@es-gen-146.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-147",
+    "name": "Law firm Madrid #1",
+    "category": "Law firm",
+    "address": "247 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.44294163260042,
+    "lng": -3.7238677983850224,
+    "phone": "+1 555 1147",
+    "rating": 3.518364544373701,
+    "reviewCount": 52,
+    "email": "contact@es-gen-147.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-148",
+    "name": "Law firm Madrid #2",
+    "category": "Law firm",
+    "address": "248 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.42705995408128,
+    "lng": -3.6664170623189962,
+    "phone": "+1 555 1148",
+    "rating": 3.8824056214446263,
+    "reviewCount": 52,
+    "email": "contact@es-gen-148.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-149",
+    "name": "Hotel Madrid #1",
+    "category": "Hotel",
+    "address": "249 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.41371389777183,
+    "lng": -3.7168756353648535,
+    "phone": "+1 555 1149",
+    "rating": 3.9277410659341623,
+    "reviewCount": 115,
+    "email": "contact@es-gen-149.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-150",
+    "name": "Hotel Madrid #2",
+    "category": "Hotel",
+    "address": "250 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.40631755407498,
+    "lng": -3.6826239257867037,
+    "phone": "+1 555 1150",
+    "rating": 4.714988859112797,
+    "reviewCount": 49,
+    "email": "contact@es-gen-150.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-151",
+    "name": "Cafe Madrid #1",
+    "category": "Cafe",
+    "address": "251 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.411262546358465,
+    "lng": -3.7003805528142575,
+    "phone": "+1 555 1151",
+    "rating": 4.18213053326521,
+    "reviewCount": 28,
+    "email": "contact@es-gen-151.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-152",
+    "name": "Cafe Madrid #2",
+    "category": "Cafe",
+    "address": "252 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.41026149931664,
+    "lng": -3.727334771893031,
+    "phone": "+1 555 1152",
+    "rating": 4.850383462954729,
+    "reviewCount": 173,
+    "email": "contact@es-gen-152.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-153",
+    "name": "Retail Madrid #1",
+    "category": "Retail",
+    "address": "253 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.45730923470512,
+    "lng": -3.6880451339789024,
+    "phone": "+1 555 1153",
+    "rating": 4.8937499651195955,
+    "reviewCount": 140,
+    "email": "contact@es-gen-153.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-154",
+    "name": "Retail Madrid #2",
+    "category": "Retail",
+    "address": "254 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.45062402486133,
+    "lng": -3.6626482520425094,
+    "phone": "+1 555 1154",
+    "rating": 4.919101695728731,
+    "reviewCount": 67,
+    "email": "contact@es-gen-154.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-155",
+    "name": "Auto repair Madrid #1",
+    "category": "Auto repair",
+    "address": "255 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.422010413501425,
+    "lng": -3.669857347578868,
+    "phone": "+1 555 1155",
+    "rating": 4.6449992024239,
+    "reviewCount": 183,
+    "email": "contact@es-gen-155.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-156",
+    "name": "Auto repair Madrid #2",
+    "category": "Auto repair",
+    "address": "256 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.44562448478389,
+    "lng": -3.686038898601987,
+    "phone": "+1 555 1156",
+    "rating": 4.347604679396236,
+    "reviewCount": 36,
+    "email": "contact@es-gen-156.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-157",
+    "name": "Salon Madrid #1",
+    "category": "Salon",
+    "address": "257 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.40447950305397,
+    "lng": -3.71018195868522,
+    "phone": "+1 555 1157",
+    "rating": 3.510941815246296,
+    "reviewCount": 162,
+    "email": "contact@es-gen-157.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-158",
+    "name": "Salon Madrid #2",
+    "category": "Salon",
+    "address": "258 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.40785730870878,
+    "lng": -3.6839607312501936,
+    "phone": "+1 555 1158",
+    "rating": 4.16449736463199,
+    "reviewCount": 8,
+    "email": "contact@es-gen-158.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-159",
+    "name": "Real estate Madrid #1",
+    "category": "Real estate",
+    "address": "259 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.448534189504805,
+    "lng": -3.7297546487858377,
+    "phone": "+1 555 1159",
+    "rating": 4.230769371047618,
+    "reviewCount": 138,
+    "email": "contact@es-gen-159.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "es-gen-160",
+    "name": "Real estate Madrid #2",
+    "category": "Real estate",
+    "address": "260 Main St",
+    "city": "Madrid",
+    "region": "Madrid",
+    "country": "ES",
+    "lat": 40.415495068904846,
+    "lng": -3.7187643097347762,
+    "phone": "+1 555 1160",
+    "rating": 4.128984692429397,
+    "reviewCount": 191,
+    "email": "contact@es-gen-160.example",
+    "reviews": [
+      {
+        "author": "User",
+        "rating": 4,
+        "text": "Solid local business.",
+        "date": "2026-04-01"
+      }
+    ]
+  }
+]

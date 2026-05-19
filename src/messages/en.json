@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "finder": "Business Finder",
+    "crm": "Mapped CRM",
+    "dashboard": "Dashboard",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": "Open-source B2B lead finder & mapped CRM",
+    "heroSub": "Self-host Area To Monitor (AM2) with a full control plane. Local SQLite — no live shared database.",
+    "cta": "Launch control plane",
+    "openFinder": "Business Finder"
+  },
+  "footer": {
+    "tagline": "Free & open source · self-hosted · no real-time sync",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  }
+}

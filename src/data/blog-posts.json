@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "mapped-crm-vs-traditional-crm",
+    "title": "Mapped CRM vs Traditional CRM",
+    "category": "CRM",
+    "excerpt": "Why geolocated lead management changes field sales.",
+    "date": "2026-03-01",
+    "content": "A mapped CRM puts every lead on a map so reps can plan visits, assign territories, and act without switching tools. AM2 combines discovery, enrichment, and map-based pipeline in one workspace."
+  },
+  {
+    "slug": "ai-review-analysis-sales-opportunities",
+    "title": "How AI Review Analysis Finds Sales Opportunities",
+    "category": "AI & Automation",
+    "excerpt": "Turn customer reviews into actionable pain points before outreach.",
+    "date": "2026-02-15",
+    "content": "Smart Reviews summarize ratings, complaints, and strengths so your team knows what to say on the first call. Pair insights with Smart Emails for personalized outreach at scale."
+  },
+  {
+    "slug": "prospecting-with-location-data",
+    "title": "Prospecting with Location Data",
+    "category": "Lead Generation",
+    "excerpt": "Search by industry and geography to build qualified lists fast.",
+    "date": "2026-01-20",
+    "content": "AM2 Finder lets you filter businesses by country, region, city, or custom map areas. Import results directly into your mapped CRM to start outreach immediately."
+  }
+]

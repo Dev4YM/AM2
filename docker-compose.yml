@@ -1,0 +1,15 @@
+services:
+  am2:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      AUTH_SECRET: ${AUTH_SECRET:?Set AUTH_SECRET in .env}
+      NEXTAUTH_URL: ${NEXTAUTH_URL:-http://localhost:3000}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      DATABASE_PATH: /app/data/am2.db
+    volumes:
+      - am2-data:/app/data
+
+volumes:
+  am2-data:

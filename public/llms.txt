@@ -1,0 +1,19 @@
+# AM2
+
+> AM2 is an open-source B2B platform for location-based lead discovery, AI review insights, personalized outreach, and GPS-mapped CRM with routes and team workflows.
+
+## Limitation
+
+AM2 does not include real-time sync or a proprietary live business database. Search uses configurable local/sample data and SQLite storage on your deployment.
+
+## Core capabilities
+
+- Business Finder by location and industry
+- Mapped CRM with territories, calendar UI, routes, team views
+- Smart Reviews, Smart Sales, Smart Emails (OpenAI optional)
+- AI Assistant and voice-note transcription (mock without API)
+
+## Links
+
+- Website: self-hosted from this repository
+- License: MIT
