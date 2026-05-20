@@ -1,5 +1,13 @@
-<!-- BEGIN:nextjs-agent-rules -->
-# This is NOT the Next.js you know
+# AM2 agent notes
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
-<!-- END:nextjs-agent-rules -->
+Monorepo layout:
+
+- `apps/web` — Next.js UI + SQLite CRM (`apps/web/src`)
+- `apps/api` — NestJS API (search, places, qualified data, AI)
+- `packages/shared` — shared types and Places/search logic
+
+Run: `npm run dev:all` (web :3000, api :4000).
+
+Search: browser → Next `/api/search` → Nest `/search`.
+
+Do not recreate root `src/` or root `next.config.ts`.

@@ -1,0 +1,33 @@
+{
+  "name": "@am2/shared",
+  "version": "0.2.0-beta.0",
+  "private": true,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./database-path": {
+      "types": "./dist/database-path.d.ts",
+      "default": "./dist/database-path.js"
+    },
+    "./db-init": {
+      "types": "./dist/db-init.d.ts",
+      "default": "./dist/db-init.js"
+    },
+    "./enrichment-extract": {
+      "types": "./dist/enrichment-extract.d.ts",
+      "default": "./dist/enrichment-extract.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "typescript": "^5"
+  }
+}

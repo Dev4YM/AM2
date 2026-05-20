@@ -1,0 +1,9 @@
+{
+  "name": "@am2/config",
+  "version": "0.2.0-beta.0",
+  "private": true,
+  "exports": {
+    "./tsconfig.base.json": "./tsconfig.base.json",
+    "./eslint.base.mjs": "./eslint.base.mjs"
+  }
+}

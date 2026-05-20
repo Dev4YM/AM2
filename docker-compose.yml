@@ -1,13 +1,40 @@
 services:
-  am2:
-    build: .
+  web:
+    build:
+      context: .
+      dockerfile: apps/web/Dockerfile
     ports:
       - "3000:3000"
     environment:
       AUTH_SECRET: ${AUTH_SECRET:?Set AUTH_SECRET in .env}
       NEXTAUTH_URL: ${NEXTAUTH_URL:-http://localhost:3000}
       OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      GOOGLE_MAPS_API_KEY: ${GOOGLE_MAPS_API_KEY:-}
+      NEXT_PUBLIC_GOOGLE_MAPS_API_KEY: ${NEXT_PUBLIC_GOOGLE_MAPS_API_KEY:-}
+      NEXT_PUBLIC_AM2_API_URL: ${NEXT_PUBLIC_AM2_API_URL:-http://api:4000}
+      NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL:-http://api:4000}
+      AM2_API_URL: ${AM2_API_URL:-http://api:4000}
+      AM2_INTERNAL_API_KEY: ${AM2_INTERNAL_API_KEY:?Set AM2_INTERNAL_API_KEY in .env}
       DATABASE_PATH: /app/data/am2.db
+    volumes:
+      - am2-data:/app/data
+    depends_on:
+      - api
+
+  api:
+    build:
+      context: .
+      dockerfile: apps/api/Dockerfile
+    ports:
+      - "4000:4000"
+    environment:
+      PORT: 4000
+      CORS_ORIGIN: ${CORS_ORIGIN:-http://localhost:3000}
+      GOOGLE_MAPS_API_KEY: ${GOOGLE_MAPS_API_KEY:-}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4o-mini}
+      DATABASE_PATH: /app/data/am2.db
+      AM2_INTERNAL_API_KEY: ${AM2_INTERNAL_API_KEY:?Set AM2_INTERNAL_API_KEY in .env}
     volumes:
       - am2-data:/app/data
 

@@ -1,0 +1,75 @@
+{
+  "placeId": "ChIJN1t_tDeuEmsRUsoyG83frY4",
+  "enrichedAt": "2026-05-19T14:32:10.123Z",
+  "tiersRequested": ["business", "enriched", "reviews", "sales", "emails"],
+  "tiersCompleted": ["business", "enriched", "reviews", "sales", "emails"],
+  "businessData": {
+    "name": "Acme HVAC Services",
+    "address": "123 Main St, Austin, TX 78701, USA",
+    "landline": "+1 512-555-0100",
+    "website": "https://acme-hvac.example.com",
+    "hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM",
+    "category": "Hvac Contractor",
+    "coordinates": { "lat": 30.2672, "lng": -97.7431 },
+    "city": "Austin",
+    "region": "TX",
+    "country": "US",
+    "rating": 4.2,
+    "reviewCount": 87,
+    "googleMapsUri": "https://maps.google.com/?cid=example",
+    "source": "google_places"
+  },
+  "enrichedData": {
+    "emails": null,
+    "mobilePhones": null,
+    "socialLinks": null,
+    "whatsapp": null,
+    "enrichmentStatus": "stub",
+    "collectorsAttempted": ["website_scrape_stub", "website_scrape_placeholder"]
+  },
+  "smartReviews": {
+    "reviews": [
+      {
+        "author": "Jane D.",
+        "rating": 5,
+        "text": "Fast response and fair pricing.",
+        "date": "2026-03-12"
+      }
+    ],
+    "averageRating": 4.2,
+    "reviewCount": 10,
+    "summary": "Customers praise responsiveness and pricing; occasional scheduling delays mentioned.",
+    "sentiment": "positive",
+    "themes": ["response time", "pricing", "scheduling"],
+    "painPoints": ["Long wait times on peak summer days"],
+    "strengths": ["Reliable emergency service", "Transparent quotes"],
+    "analysisSource": "openai"
+  },
+  "smartSales": {
+    "weaknesses": ["Scheduling bottlenecks during peak season", "Limited online booking"],
+    "strengths": ["Strong local reputation", "High review volume"],
+    "indicators": ["Has website", "Published business hours"],
+    "opportunities": [
+      "Offer dispatch/scheduling automation",
+      "Reduce no-shows with automated reminders"
+    ],
+    "prospectingAngle": "Lead with peak-season scheduling relief backed by review themes.",
+    "analysisSource": "openai"
+  },
+  "smartEmails": {
+    "drafts": [
+      {
+        "subject": "Fewer missed calls at Acme HVAC",
+        "body": "Hi,\n\nI saw reviewers mention scheduling delays during busy weeks. We help HVAC teams automate dispatch and reminders.\n\nOpen to a 10-minute call?\n\nBest",
+        "tone": "consultative"
+      },
+      {
+        "subject": "Quick win for your dispatch desk",
+        "body": "Hi,\n\nTeams like Acme HVAC use us to cut scheduling friction when call volume spikes. Worth a short intro?\n\nThanks",
+        "tone": "direct"
+      }
+    ],
+    "crmContextUsed": "We sell field-service scheduling SaaS for HVAC contractors.",
+    "generationSource": "openai"
+  }
+}
